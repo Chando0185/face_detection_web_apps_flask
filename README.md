@@ -1,5 +1,6 @@
 # Face Detection Web Apps Using Flask , Opencv And  Python 
 
+See the full video you will get somewhere the password of this code zip file
 
 Requirement:
 pip install opencv-python
